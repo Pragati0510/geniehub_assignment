@@ -22,6 +22,8 @@ DevOps is a collaborative software development methodology that emphasizes autom
 
 These phases form a continuous cycle, with feedback loops and automation mechanisms driving iterative improvements throughout the software delivery lifecycle.
 
+![devops_phases]()
+
 
 
 
