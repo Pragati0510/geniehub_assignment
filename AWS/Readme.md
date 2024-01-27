@@ -2,6 +2,9 @@
 
 Amazon Web Services (AWS) is a leading cloud service provider that offers a wide range of cloud computing services. Below are some fundamental concepts to understand when working with AWS:
 
+# AWS CodeDeploy
+AWS CodeDeploy is a deployment service that automates application deployments to Amazon EC2 instances, on-premises instances, serverless AWS Lambda functions, or Amazon Elastic Container Service (Amazon ECS) services.
+
 ## 1. Regions and Availability Zones
 
 - **Region:** A geographic area that consists of multiple Availability Zones. Each AWS region is a separate geographic area, isolated from others, and is designed to provide high availability and low latency.
