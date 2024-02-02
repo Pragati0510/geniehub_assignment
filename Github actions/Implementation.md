@@ -72,8 +72,13 @@ console
 
 "homepage" : "your_url"
 ```
+## now you CI/CD pipeline using github actions has been built successfully and when you push anything it will automatically go through the stages and deployed successfully.
+
+## For reference
+![image](https://github.com/Pragati0510/geniehub_assignment/assets/92318379/db92f1c6-4529-4fdc-8115-71130fb805ca)
 
 
+## like i have updated package.json automatically it has gone through process
 
 
 
